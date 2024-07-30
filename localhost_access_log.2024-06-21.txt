@@ -23,4 +23,4 @@
 10.0.0.18 - - [21/Jun/2024:09:57:00 +0300] "GET /component/app/admin.html HTTP/1.1" 200 4333
 10.0.0.18 - - [21/Jun/2024:09:57:00 +0300] "GET /component/app/no-cache/adm-login.js HTTP/1.1" 200 688
 10.0.0.18 - - [21/Jun/2024:09:57:00 +0300] "GET /component/app/no-cache/stranslation-lite.js HTTP/1.1" 404 184
-10.0.0.18 - - [21/Jun/2024:09:57:06 +0300] "POST /component/admin-login HTTP/1.1" 401 -  HELLO
+10.0.0.18 - - [21/Jun/2024:09:57:06 +0300] "POST /component/admin-login HTTP/1.1" 401 -  HELLO INFI
