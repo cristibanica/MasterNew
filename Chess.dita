@@ -39,7 +39,8 @@
       </p>
     </section>
     <section id="initial_setup">
-      <title>Initial Setup</title>
+      <title><?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>Initial
+        Setup<?oxy_custom_end?></title>
       <p>At the beginning of the game, the pieces are arranged, one on a square, as follows:<ul>
         <li>The 2 rooks are placed on the outside corners, right and left edge.</li>
         <li>The 2 knights are placed immediately inside of the rooks.</li>
